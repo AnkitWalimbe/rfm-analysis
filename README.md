@@ -5,24 +5,6 @@ The goal is to uncover **customer loyalty tiers, revenue dependency, and churn r
 
 ---
 
-## Project Structure
-
-rfm-analysis/
-│
-├── data/
-│ └── README.md # Information about the dataset used
-│
-├── notebooks/
-│ └── notebook_02_rfm-analysis_v2.ipynb # Final polished analysis notebook
-│
-├── outputs/
-│ └── figures/ # Plots generated from analysis
-│
-│
-└── README.md # Project documentation
-
----
-
 ## Tools & Libraries
 - **Python**: Data cleaning, transformation, visualization  
 - **Pandas / NumPy**: Data wrangling  
